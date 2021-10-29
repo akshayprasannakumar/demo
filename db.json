@@ -14,7 +14,7 @@
   "name":{
     "name":"akshay"
   },
-  {
+  "httpinbox": {
       "next": "string",
       "previous": "string",
       "results": [
