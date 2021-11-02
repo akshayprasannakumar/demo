@@ -132,8 +132,12 @@
         "state": "string",
         "created_on": "2021-10-28T10:17:36.669Z",
         "updated_on": "2021-10-28T10:17:36.669Z"
-      }
-      
+      },
+      {"commandId": "85c72daf-7bbe-47aa-b3b4-25ca33ad2g12f", "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/64f0a6d9-868d-43b2-90ba-49f6dde84ad1/status/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/", "command": "SET_KIOSK_APP", "commandType": "formal", "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/status/", "packageName": "com.termux"},
+      {"commandId": "85c72daf-7bbe-47aa-b3b4-25ca33ad2g12i", "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/64f0a6d9-868d-43b2-90ba-49f6dde84ad1/status/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/", "command": "SET_KIOSK_APP", "commandType": "formal", "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/status/", "packageName": "onemlab.deviceid"},
+      {"commandId": "85c72daf-7bbe-47aa-b3b4-25ca33ad2g12j", "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/64f0a6d9-868d-43b2-90ba-49f6dde84ad1/status/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/", "command": "SET_KIOSK_APP", "commandType": "formal", "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/status/", "packageName": "com.termux"},
+      {"commandId": "85c72daf-7bbe-47aa-b3b4-25ca33ad2g12k", "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/64f0a6d9-868d-43b2-90ba-49f6dde84ad1/status/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/", "command": "SET_KIOSK_APP", "commandType": "formal", "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/status/", "packageName": "onemlab.deviceid"},
+      {"commandId": "85c72daf-7bbe-47aa-b3b4-25ca33ad2g12l", "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/64f0a6d9-868d-43b2-90ba-49f6dde84ad1/status/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/", "command": "SET_KIOSK_APP", "commandType": "formal", "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/85c72daf-7bbe-47aa-b3b4-25ca33ad2a9f/status/", "packageName": "com.termux"}
     ]
   }
 }
