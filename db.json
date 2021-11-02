@@ -77,62 +77,6 @@
         "created_on": "2021-10-28T10:17:36.669Z",
         "updated_on": "2021-10-28T10:17:36.669Z"
       },
-      {
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afc16",
-        "request": "3fa85f64-5717-4562-b3fc-2c963f66afb11",
-        "command_message": {
-          "commandId": "0911f2be-ab3c-426a-9ffb-1f0b6fadfg113",
-          "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/33ba22b8-f1e3-40d2-9025-cf3cf613daee/status/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/",
-          "command": "UPDATE_HEARTBEAT",
-          "commandType": "formal",
-          "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/status/"
-        },
-        "state": "string",
-        "created_on": "2021-10-28T10:17:36.669Z",
-        "updated_on": "2021-10-28T10:17:36.669Z"
-      },
-      {
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afc17",
-        "request": "3fa85f64-5717-4562-b3fc-2c963f66afb12",
-        "command_message": {
-          "commandId": "0911f2be-ab3c-426a-9ffb-1f0b6fadfg114",
-          "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/33ba22b8-f1e3-40d2-9025-cf3cf613daee/status/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/",
-          "command": "UPDATE_HEARTBEAT",
-          "commandType": "formal",
-          "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/status/"
-        },
-        "state": "string",
-        "created_on": "2021-10-28T10:17:36.669Z",
-        "updated_on": "2021-10-28T10:17:36.669Z"
-      },
-      {
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afc18",
-        "request": "3fa85f64-5717-4562-b3fc-2c963f66afb13",
-        "command_message": {
-          "commandId": "0911f2be-ab3c-426a-9ffb-1f0b6fadfg115",
-          "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/33ba22b8-f1e3-40d2-9025-cf3cf613daee/status/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/",
-          "command": "UPDATE_HEARTBEAT",
-          "commandType": "formal",
-          "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/status/"
-        },
-        "state": "string",
-        "created_on": "2021-10-28T10:17:36.669Z",
-        "updated_on": "2021-10-28T10:17:36.669Z"
-      },
-      {
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afc19",
-        "request": "3fa85f64-5717-4562-b3fc-2c963f66afb134",
-        "command_message": {
-          "commandId": "0911f2be-ab3c-426a-9ffb-1f0b6fadfg116",
-          "commandUrl": "/api/v0/enterprise/f44373cb-1800-43c6-aab3-c81f8b1f435c/command/33ba22b8-f1e3-40d2-9025-cf3cf613daee/status/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/",
-          "command": "UPDATE_HEARTBEAT",
-          "commandType": "formal",
-          "commandTopicBase": "iot/ScApiDevelopNvirg/develop/3727167f-579a-40c6-a98f-80831a97bce9/command/0911f2be-ab3c-426a-9ffb-1f0b8fadfc78/status/"
-        },
-        "state": "string",
-        "created_on": "2021-10-28T10:17:36.669Z",
-        "updated_on": "2021-10-28T10:17:36.669Z"
-      },
 {
   "id": "3fa85f64-5717-4562-b3fc-2c963f66afc19",
   "request": "3fa85f64-5717-4562-b3fc-2c963f66afb134",
